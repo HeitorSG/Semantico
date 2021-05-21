@@ -1,0 +1,11 @@
+heitor\uni\comp\expr\parser\Principal.class
+heitor\uni\comp\expr\parser\ExpressoesParser$FatorContext.class
+heitor\uni\comp\expr\parser\ExpressoesParser$TermoContext.class
+heitor\uni\comp\expr\parser\ExpressoesParser.class
+heitor\uni\comp\expr\parser\ExpressoesParser$ProgramaContext.class
+heitor\uni\comp\expr\parser\ExpressoesParser$ExpressaoContext.class
+heitor\uni\comp\expr\parser\ExpressoesLexer.class
+heitor\uni\comp\expr\parser\ExpressoesParser$Termo2Context.class
+heitor\uni\comp\expr\parser\ExpressoesBaseListener.class
+heitor\uni\comp\expr\parser\ExpressoesListener.class
+heitor\uni\comp\expr\parser\ExpressoesParser$Expressao2Context.class
