@@ -1,0 +1,16 @@
+heitor\uni\comp\expr\parser3\Calculador.class
+heitor\uni\comp\expr\parser3\ExpressoesBaseVisitor.class
+heitor\uni\comp\expr\parser3\Principal.class
+heitor\uni\comp\expr\parser3\ExpressoesParser$ListaDeclContext.class
+heitor\uni\comp\expr\parser3\TabelaDeSimbolos.class
+heitor\uni\comp\expr\parser3\ExpressoesParser$DeclContext.class
+heitor\uni\comp\expr\parser3\ExpressoesParser$TermoContext.class
+heitor\uni\comp\expr\parser3\ExpressoesLexer.class
+heitor\uni\comp\expr\parser3\ExpressoesVisitor.class
+heitor\uni\comp\expr\parser3\ExpressoesParser$ProgramaContext.class
+heitor\uni\comp\expr\parser3\ExpressoesBaseListener.class
+heitor\uni\comp\expr\parser3\ExpressoesParser$ExpContext.class
+heitor\uni\comp\expr\parser3\Escopos.class
+heitor\uni\comp\expr\parser3\ExpressoesListener.class
+heitor\uni\comp\expr\parser3\EntradaTabelaDeSimbolos.class
+heitor\uni\comp\expr\parser3\ExpressoesParser.class
